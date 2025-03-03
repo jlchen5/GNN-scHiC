@@ -9,3 +9,7 @@ First, ensure you have the necessary packages installed. You may need to install
 pip install torch torchvision torchaudio
 pip install torch-geometric
 ~~~
+
+
+## License
+This project is available under the MIT License.
