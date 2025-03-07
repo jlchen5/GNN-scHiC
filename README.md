@@ -12,4 +12,4 @@ pip install torch-geometric
 
 
 ## License
-This project is available under the MIT License.
+This project is available under the [MIT License](https://github.com/jlchen5/GNN-scHiC/blob/main/LICENSE).
